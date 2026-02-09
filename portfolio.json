@@ -1,0 +1,10 @@
+{
+  "title": {
+    "fr": "Jeu d'échecs",
+    "en": "Chess Game"
+  },
+  "description": {
+    "fr": "Un peu avant mon BUT, j'ai appris Java en créant un jeu d'échecs avec Swing. Le jeu était fonctionnel avec quelques erreurs corrigées après mes premiers cours, et j'ai ajouté un ordinateur utilisant l'algorithme Minimax pour plus de difficulté.",
+    "en": "Shortly before my BUT program, I learned Java by creating a chess game using Swing. The game was mostly functional, with some bugs fixed after my first courses, and I added an AI using the Minimax algorithm to increase difficulty."
+  }
+}
